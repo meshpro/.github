@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/meshpro/"><img alt="meshpro" src="https://raw.githubusercontent.com/meshpro/.github/assets/meshpro-logo.svg" width="60%"></a>
+  <a href="https://github.com/meshpro/"><img alt="meshpro" src="https://raw.githubusercontent.com/meshpro/.github/assets/meshpro-logo.svg" width="40%"></a>
   <p align="center">Mesh tools for professionals.</p>
 </p>
 

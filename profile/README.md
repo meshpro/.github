@@ -6,7 +6,7 @@
 MeshPro is a collection of Python libraries and command-line tools for mesh I/O
 and mesh manipulation.
 
-Full access to all MeshPro functionality requires a license. Licenses can be purchased [here](license.md).
+Full access to all MeshPro functionality requires a license. Licenses can be purchased [here](https://mondaytech.com/meshpro/license/).
 You'll receive a confirmation email with a license key. Install the key with
 
 ```
